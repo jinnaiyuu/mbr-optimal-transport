@@ -1,0 +1,54 @@
+transformers==4.51.0 # Because trl 0.9.4 is not compatible with transformers>=4.46.
+py7zr
+datasets>=2.12
+einops
+accelerate>=0.34.2
+# accelerate==0.30.1 # accelerate==0.26.0
+bitsandbytes==0.45.5 # bitsandbytes==0.43.2 # bitsandbytes==0.40.2
+evaluate>=0.4.0
+bert_score==0.3.13
+unbabel-comet>=2.1.1
+absl-py
+nltk==3.8.1
+rouge-score==0.1.2
+sacremoses==0.0.53
+sortedcontainers
+subword-nmt==0.3.8
+google-cloud-storage
+scikit-learn-extra==0.3.0
+torchmetrics==0.10.3
+peft==0.10.0 # peft==0.7.1
+deepspeed
+cffi
+cython
+hydra-core
+omegaconf
+numpy
+regex
+sacrebleu[ja]
+tqdm
+bitarray
+scikit-learn
+packaging
+boto3
+mlflow-skinny
+google-auth
+openai>=1.41.0
+llm-blender
+trl==0.9.4
+sacred
+pymongo>=4.8.0
+pot[backend-torch]
+banditpam
+mecab-python3
+unidic-lite
+spacy
+ja-ginza
+jreadability
+git+https://github.com/neural-dialogue-metrics/Distinct-N.git@e94edcb2e1d2230ff9e0f1821387d7f6d7af0c4f
+# Code quality tools
+black
+mypy
+isort
+flake8
+autopep8

@@ -1,0 +1,5 @@
+Translate the following paragraph from English to German.
+
+[[QUESTION]]
+
+Translate this paragraph from English to German.
