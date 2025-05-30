@@ -1,6 +1,6 @@
 # Document-Level Text Generation with Minimum Bayes Risk Decoding using Optimal Transport
 
-This repository contains the code for the experiments in Document-Level Text Generation with Minimum Bayes Risk Decoding using Optimal Transport (TBA).
+This repository contains the code for the experiments in [Document-Level Text Generation with Minimum Bayes Risk Decoding using Optimal Transport](https://arxiv.org/abs/2505.23078).
 
 The code is tested on a docker image built on top of [nvidia/pytorch:23.12-py3](https://catalog.ngc.nvidia.com/orgs/nvidia/containers/pytorch/tags) image.
 The code for evaluating the optimal transport-based metrics is in eval-ot-metrics/ directory.
@@ -38,7 +38,7 @@ The results are stored in ./results directory.
 
 ## Reference
 
-Document-Level Text Generation with Minimum Bayes Risk Decoding using Optimal Transport.
+[Document-Level Text Generation with Minimum Bayes Risk Decoding using Optimal Transport](https://arxiv.org/abs/2505.23078)
 
 Bibtex:
 ```
